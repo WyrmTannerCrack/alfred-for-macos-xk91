@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with updated Alfred for macOS Plugin | file-encryption + file-archiving, the #1 plugin. Includes file-encryption and file-archiving for a smoother macOS
 
 
 
